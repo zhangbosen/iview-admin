@@ -72,5 +72,6 @@ export default {
   .CodeMirror-fullscreen ~ .editor-preview-side{
     z-index: 9999;
   }
+
 }
 </style>
